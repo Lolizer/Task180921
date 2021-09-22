@@ -1,0 +1,4 @@
+java.lang.Exception: You have to check if all required variables are set!
+	at com.mulaev.ardnya.weather.Logic.doAction(Logic.java:51)
+	at com.mulaev.ardnya.weather.Logic.doAction(Logic.java:42)
+	at com.mulaev.ardnya.weather.Main.main(Main.java:11)
